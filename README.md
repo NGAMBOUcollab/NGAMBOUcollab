@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA SCIENCES
 - 🌱 I’m currently learning DATASCIENCES AND STATISTICS MODELISATION AT INSTITUT SOUS REGIONAL DE STATISTIQUE ET D4ECONOMIE APPLIQUEE(ISSEA)
 - 💞️ I’m looking to collaborate on CRUD opperation on Rshiny with a mongoDB dtabase
-- 📫 How to reach me  hngambouk20008@gmail.com
+- 📫 How to reach me  hngambouk2008@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
